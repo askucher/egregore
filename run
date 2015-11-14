@@ -1,0 +1,5 @@
+lsc -c *.ls
+browserify source.js -o dist.js
+uglifyjs dist.js >> dist.pack.js
+node client
+

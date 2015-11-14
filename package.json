@@ -1,0 +1,27 @@
+{
+  "name": "egregore",
+  "subversion": 1,
+  "uperversion": "0.1",
+  "version": "0.1.2019",
+  "description": "Shared synchronized object between frontend and backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askucher/egregore.git"
+  },
+  "keywords": [
+    "nodejs",
+    "socket"
+  ],
+  "author": "Andrey Steghno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askucher/egregore/issues"
+  },
+  "homepage": "https://github.com/askucher/egregore#readme",
+  "dependencies": {
+  }
+}
